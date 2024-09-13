@@ -1,0 +1,32 @@
+.search-it{
+    width:30vw;
+    min-width:200px;
+    height:3rem;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:20px;
+    gap:10px;
+
+}
+.search-it input{
+    color:rgb(0, 0, 0);
+    border:none;
+    background-color: white;
+    flex:1;
+    font-size: 1.4rem;
+    border-radius: 6px;
+}
+.search-it button{
+    background-color: white;
+    color:black;
+    border-radius: 0px;
+    font-size: 1.2rem;
+    border-radius: 4px;
+}
+#search-button:hover{
+    background-color: black;
+    color:white;   
+    border: none; 
+}

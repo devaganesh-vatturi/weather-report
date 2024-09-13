@@ -1,0 +1,8 @@
+.info{
+   text-align: center;
+    margin:auto;
+    margin-top:30px;
+}
+#temp,#cond{
+    font-size: 1.5rem;
+}

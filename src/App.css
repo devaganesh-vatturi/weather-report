@@ -1,0 +1,25 @@
+.weather-main{
+background-color: #73b7dc7e;
+color:rgb(0, 0, 0);
+width:40vw;
+height: 60vh;
+border-radius: 50px;
+}
+.weather-head{
+    width:100%;
+    height:4.5rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+  
+
+}
+.weather-back{
+    height:100vh;
+    width:100vw;
+    background-image: url('./components/background.jpg');
+    display:flex;
+justify-content: center;
+align-items: center;
+
+}
